@@ -4,8 +4,8 @@ export default {
   theme: {
     extend: {
       backgroundImage:{
-       'starry': "url('./starry.gif')",
-       'starry2': "url('./starry2.gif')"
+       'starry': "url('/starry.gif')",
+       'starry2': "url('/starry2.gif')"
       },
       screens:{
        'iphone': '431px',
